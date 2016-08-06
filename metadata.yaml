@@ -1,0 +1,31 @@
+_repo: Klondyke-NuggetsA-Brief-Description-of-the-Great-Gold-Regions-in-the-Northwest_10043
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ladue, Joseph
+    aliases:
+    - Ladue, Joe
+    - Ladue, Joseph Francis
+    birthdate: 1855
+    deathdate: 1900
+    gutenberg_agent_id: '3277'
+    url: http://www.gutenberg.org/2009/agents/3277
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Francis_Ladue
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Klondike River Valley (Yukon) -- Gold discoveries'
+- !lcsh 'Alaska -- Gold discoveries'
+- !lcc 'E660'
+- GITenberg
+title: 'Klondyke Nuggets
+
+  A Brief Description of the Great Gold Regions in the Northwest'
+url: http://www.gutenberg.org/ebooks/10043
